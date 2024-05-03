@@ -1,0 +1,1 @@
+datamodel-codegen --input-file-type json --input pairs.json --output pairs_models.py
