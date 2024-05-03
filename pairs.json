@@ -1,0 +1,32 @@
+{
+    "pairs": [
+      {
+        "pair": "BTC_USD",
+        "base_currency": "BTC",
+        "quote_currency": "USD",
+        "volume": 100.25,
+        "last_price": 50000.0,
+        "high": 55000.0,
+        "low": 48000.0
+      },
+      {
+        "pair": "ETH_USD",
+        "base_currency": "ETH",
+        "quote_currency": "USD",
+        "volume": 50.75,
+        "last_price": 3000.0,
+        "high": 3200.0,
+        "low": 2800.0
+      },
+      {
+        "pair": "LTC_USD",
+        "base_currency": "LTC",
+        "quote_currency": "USD",
+        "volume": 20.5,
+        "last_price": 200.0,
+        "high": 220.0,
+        "low": 180.0
+      }
+    ]
+  }
+  
